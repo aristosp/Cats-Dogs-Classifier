@@ -12,8 +12,8 @@ The repository contains:
 * A utils.py file containing functions regarding the dataset, the model, the training process and various other utilities.
 * The main.py file containing the hyperparameters, the loading of the dataset etc.
 
-
-
+Example predictions from the test set can be seen in the following image:
+![Predictions](https://github.com/aristosp/Cats-Dogs-Classifier/assets/62808962/47dc6a8c-c3e6-4c4f-8451-f0e2b6d3756e)
 
 
 
