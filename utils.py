@@ -76,7 +76,6 @@ def get_model():
         nn.Flatten(),
         nn.Dropout(0.3),
         nn.Linear(512, 64),
-        nn.Dropout(0.3),
         nn.Linear(64, 1),
         nn.Sigmoid()).to(device)
     return network
