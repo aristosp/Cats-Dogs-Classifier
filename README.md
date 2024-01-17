@@ -1,4 +1,4 @@
-# Cats-Dogs-Classifier
+# Cats & Dogs Classifier
 
 A project based on Chapter Four of [Modern Computer Vision with Pytorch]. Create a Convolutional Neural Network in Pytorch classifying images of dogs and cats from [Kaggle].
 Example Training Images:
